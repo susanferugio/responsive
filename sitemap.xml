@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://dawn-water-2286.animaapp.io/</loc>
+  <lastmod>2019-05-13</lastmod>
+</url>
+
+<url>
+  <loc>http://dawn-water-2286.animaapp.io/projectmobile</loc>
+  <lastmod>2019-05-13</lastmod>
+</url>
+
+<url>
+  <loc>http://dawn-water-2286.animaapp.io/marketingmakeover</loc>
+  <lastmod>2019-05-13</lastmod>
+</url>
+
+<url>
+  <loc>http://dawn-water-2286.animaapp.io/frontendmobile</loc>
+  <lastmod>2019-05-13</lastmod>
+</url>
+
+<url>
+  <loc>http://dawn-water-2286.animaapp.io/desktophd</loc>
+  <lastmod>2019-05-13</lastmod>
+</url>
+
+</urlset>
